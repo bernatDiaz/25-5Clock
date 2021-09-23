@@ -1,0 +1,25 @@
+#clock{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#break{
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+#session{
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+.buttons{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.modifiers{
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+}
